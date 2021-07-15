@@ -12,6 +12,6 @@ Use `node .` or `node index.js`
 ## Config Change!
 
 - Change index.js
-- - bot token and image url
+  - bot token and image url
 
 ### For support add me on Discord : ੴ katyusha ριЖιs#6080
