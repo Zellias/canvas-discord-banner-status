@@ -25,8 +25,7 @@ client.on('ready' , async () => {
 
         context.fillStyle = '#DDFF00';
 
-        context.fillText(`${ guild.memberCount }`, 689 ,1029 );
-        context.fillText(`HIGHLIGHT STAFF`, 1041 ,1433 );
+        context.fillText(`Members : ${ guild.memberCount }`, 689 ,1029 );
 
         let i;
         let channels = guild.channels.cache.filter(channel => channel.type === "voice")
@@ -34,12 +33,12 @@ client.on('ready' , async () => {
             i =+ channel.members.size
         });
 
-        context.fillText(i, 517 ,1161 );
+        context.fillText(`Voice : ${i}`, 517 ,1161 );
 
        let res = await fetch('https://api.codebazan.ir/time-date/?td=dateen')
        let data = await res.text()
 
-        context.fillText(data, 569 , 1293 )
+        context.fillText(`Date : ${data}`, 569 , 1293 )
 
     
         await guild.setBanner(canvas.toBuffer())
