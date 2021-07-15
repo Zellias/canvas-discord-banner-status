@@ -48,7 +48,7 @@ client.on('ready' , async () => {
 });
 
 client.on("ready", () => {
-    client.user.setActivity('Developed By Katusha')
+    client.user.setActivity('Developed By katyusha-pixis')
       const channel = client.channels.cache.get("853185432531894292");
       if (!channel) return console.error("The channel does not exist!");
       channel.join().then(connection => {
