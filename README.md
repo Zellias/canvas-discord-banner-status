@@ -1,15 +1,15 @@
 # canvas-banner-status
 The First And best canvas banner status with custom font !
 
-#Installation
+## Installation
 
 Use `npm i` or `npm install`
 
-#run
+## run
 
 Use `node .` or `node index.js`
 
-#Config Change!
+## Config Change!
 
 - Change index.js
 - - bot token and image url
