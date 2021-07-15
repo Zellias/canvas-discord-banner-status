@@ -13,3 +13,5 @@ Use `node .` or `node index.js`
 
 - Change index.js
 - - bot token and image url
+
+### For support add me on Discord : ੴ katyusha ριЖιs#6080
