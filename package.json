@@ -1,0 +1,22 @@
+{
+  "name": "canvas-banner-status",
+  "version": "1.1.0",
+  "description": "the first canvas banner status by https://github.com/katyusha-pixis/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katyusha-pixis/canvas-banner-status.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "ੴ katyusha ριЖιs#6080",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katyusha-pixis/canvas-banner-status/issues"
+  },
+  "homepage": "https://github.com/katyusha-pixis/canvas-banner-status#readme"
+}
