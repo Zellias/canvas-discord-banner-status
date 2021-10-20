@@ -1,5 +1,5 @@
 # canvas-banner-status
-The First (I'm just joking just check my friend @hadiazt) And best canvas banner status with custom font !
+The First (I just joking, just check my friend's github  @hadiazt) And best canvas banner status with custom font !
 
 ## Installation
 
