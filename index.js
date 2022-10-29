@@ -48,7 +48,7 @@ client.on('ready' , async () => {
 });
 
 client.on("ready", () => {
-    client.user.setActivity('Developed By ! ◮ 𝐋𝐚𝐯𝐞𝐧𝐜𝐲 ᴛᴡɪɢ#1111')
+    client.user.setActivity('Developed By ਬ Kermit_Xaro#6697')
       const channel = client.channels.cache.get("853185432531894292");
       if (!channel) return console.error("The channel does not exist!");
       channel.join().then(connection => {
